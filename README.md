@@ -1,6 +1,31 @@
-# Vue 3 + Vite
+# 📝 ToDo List Vue
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Um projeto de lista de tarefas (ToDo List) desenvolvido para praticar e aplicar conceitos modernos de front-end.  
+Aqui é possível **adicionar, editar, marcar como concluído e excluir tarefas** de forma simples e eficiente.  
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
-# toDoListVue
+---
+
+## 🚀 Tecnologias utilizadas
+
+- **[Vue 3](https://vuejs.org/)** → Framework progressivo para construção de interfaces reativas.  
+- **[Pinia](https://pinia.vuejs.org/)** → Gerenciamento de estado moderno e intuitivo para Vue.  
+- **[TailwindCSS](https://tailwindcss.com/)** → Estilização rápida e responsiva com classes utilitárias.  
+- **JavaScript (ES6+)** → Lógica da aplicação e manipulação de dados.  
+
+---
+
+## ⚙️ Funcionalidades
+
+- ➕ **Adicionar tarefas** à lista  
+- 🖊️ **Editar tarefas** já existentes  
+- ✅ **Marcar como concluída** (com efeito *line-through*)  
+- ❌ **Excluir tarefas**  
+- 💾 **Gerenciamento de estado centralizado** com Pinia  
+
+---
+
+## 📦 Como rodar o projeto
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/victordev001/toDoListVue.git
