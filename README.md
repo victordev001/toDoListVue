@@ -4,6 +4,8 @@ Um projeto de lista de tarefas (ToDo List) desenvolvido para praticar e aplicar 
 Aqui é possível **adicionar, editar, marcar como concluído e excluir tarefas** de forma simples e eficiente.  
 
 ---
+![Preview do Projeto](public/todoimg.jpg.png)
+
 
 ## 🚀 Tecnologias utilizadas
 
